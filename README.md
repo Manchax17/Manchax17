@@ -66,8 +66,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[ElectronicCircuits1_NumericAlgorithms](https://github.com/Manchax17/ElectronicCircuits1_NumericAlgorithmsForEngineering)** | Proyecto de algoritmos numéricos aplicados a circuitos electrónicos. | `Java` `Spring Boot` |
 | **[Kathe](https://github.com/Manchax17/Kathe)** | Aplicación web de flashcards para aprendizaje y memorización activa. | `React` `Vite` `Tailwind CSS` |
+| **[ElectronicCircuits1_NumericAlgorithms](https://github.com/Manchax17/ElectronicCircuits1_NumericAlgorithmsForEngineering)** | Proyecto de algoritmos numéricos aplicados a circuitos electrónicos. | `Java` `Spring Boot` |
 | **[backend-sigat](https://github.com/Manchax17/backend-sigat)** | Arquitectura backend desarrollada en Python. | `Python` |
 | **[PlatTec](https://github.com/Manchax17/PlatTec)** | Plataforma de chat en tiempo real mediante WebSockets. | `Spring Boot` `Docker` |
 | **[chatia](https://github.com/Manchax17/chatia)** | Asistente inteligente construido para Sistemas Inteligentes. | `Python` `LangChain` `Tailwind` |
